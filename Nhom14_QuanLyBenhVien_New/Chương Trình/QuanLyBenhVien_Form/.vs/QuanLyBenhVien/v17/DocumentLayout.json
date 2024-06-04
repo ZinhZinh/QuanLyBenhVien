@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|d:\\nhom14_quanlybenhvien_all\\nhom14_quanlybenhvien_new\\ch\u01B0\u01A1ng tr\u00ECnh\\quanlybenhvien_form\\quanlybenhvien\\frmconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\frmconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\quanlybenhvien\\frmconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\frmconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93487EE3-9542-4A95-A8F2-502D19E10C43}|DAL\\DAL.csproj|d:\\nhom14_quanlybenhvien_all\\nhom14_quanlybenhvien_new\\ch\u01B0\u01A1ng tr\u00ECnh\\quanlybenhvien_form\\dal\\connection_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93487EE3-9542-4A95-A8F2-502D19E10C43}|DAL\\DAL.csproj|solutionrelative:dal\\connection_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\quanlybenhvien\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5B6E00E-FF87-417D-9855-57F8DEBFBE09}|QuanLyBenhVien\\QuanLyBenhVien.csproj|solutionrelative:quanlybenhvien\\frmbaocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmConnection.cs",
+              "DocumentMoniker": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmConnection.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\frmConnection.cs",
+              "ToolTip": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmConnection.cs",
+              "RelativeToolTip": "QuanLyBenhVien\\frmConnection.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:45:39.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connection_DAL.cs",
+              "DocumentMoniker": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\DAL\\Connection_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Connection_DAL.cs",
+              "ToolTip": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\DAL\\Connection_DAL.cs",
+              "RelativeToolTip": "DAL\\Connection_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:39:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmConnection.cs [Design]",
+              "DocumentMoniker": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmConnection.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\frmConnection.cs",
+              "ToolTip": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmConnection.cs [Design]",
+              "RelativeToolTip": "QuanLyBenhVien\\frmConnection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:32:13.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmBaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "QuanLyBenhVien\\frmBaoCaoDoanhThu.cs",
+              "ToolTip": "D:\\Nhom14_QuanLyBenhVien_All\\Nhom14_QuanLyBenhVien_New\\Ch\u01B0\u01A1ng Tr\u00ECnh\\QuanLyBenhVien_Form\\QuanLyBenhVien\\frmBaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "QuanLyBenhVien\\frmBaoCaoDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:30:23.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

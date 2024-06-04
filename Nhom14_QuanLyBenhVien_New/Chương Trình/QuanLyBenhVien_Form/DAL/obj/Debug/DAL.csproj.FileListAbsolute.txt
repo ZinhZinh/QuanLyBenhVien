@@ -1,0 +1,107 @@
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\bin\Debug\DAL.dll.config
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\bin\Debug\DAL.dll
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\bin\Debug\DAL.pdb
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\obj\Debug\DAL.dll
+E:\DotNet\Đồ án\QuanLyBenhVien\DAL\obj\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien - Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien - Copy\DAL\obj\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien - Copy\DAL\obj\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien - Copy\DAL\bin\Debug\DAL.dll.config
+E:\DotNet\QuanLyBenhVien - Copy\DAL\bin\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien - Copy\DAL\bin\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien - Copy\DAL\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien - Copy\DAL\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QuanLyBenhVien_TaoDaGop\DAL\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_TaoDaGop\DAL\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_TaoDaGop\DAL\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_TaoDaGop\DAL\bin\Debug\ET.dll
+D:\QuanLyBenhVien_TaoDaGop\DAL\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_TaoDaGop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_TaoDaGop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_TaoDaGop\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLyBenhVien_TaoDaGop\DAL\obj\Debug\DAL.dll
+D:\QuanLyBenhVien_TaoDaGop\DAL\obj\Debug\DAL.pdb
+D:\QuanLyBenhVien_Sua\DAL\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_Sua\DAL\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_Sua\DAL\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_Sua\DAL\bin\Debug\ET.dll
+D:\QuanLyBenhVien_Sua\DAL\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_Sua\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_Sua\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_Sua\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLyBenhVien_Sua\DAL\obj\Debug\DAL.dll
+D:\QuanLyBenhVien_Sua\DAL\obj\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+E:\DotNet\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\DotNet\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,48 @@
+E:\DotNet\QuanLyBenhVien - Copy\ET\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien - Copy\ET\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien - Copy\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien - Copy\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien - Copy\ET\obj\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien - Copy\ET\obj\Debug\ET.pdb
+D:\QuanLyBenhVien_TaoDaGop\ET\bin\Debug\ET.dll
+D:\QuanLyBenhVien_TaoDaGop\ET\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_TaoDaGop\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_TaoDaGop\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_TaoDaGop\ET\obj\Debug\ET.dll
+D:\QuanLyBenhVien_TaoDaGop\ET\obj\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb
+D:\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+D:\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+D:\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\ET\obj\Debug\ET.pdb

@@ -1,0 +1,1366 @@
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\BUS.dll
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\DAL.dll
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\BUS.pdb
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\DAL.pdb
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\bin\Debug\DAL.dll.config
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CopyComplete
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+E:\DotNet\Đồ án\QuanLyBenhVien\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\BUS.dll
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\BUS.pdb
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\bin\Debug\DAL.dll.config
+E:\DotNet\QuanLyBenhVien - Copy\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CopyComplete
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ET.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Images.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_TaoDaGop\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Data.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Images.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ET.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Data.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.CodeCompletion.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_Sua\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DocumentFormat.OpenXml.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.MSXML.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DocumentFormat.OpenXml.xml
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CopyComplete
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QLBV.mdf
+E:\DotNet\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QLBV_log.ldf
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QLBV.mdf
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QLBV_log.ldf
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_Old\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.SuggestedBindingRedirects.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CopyComplete
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_Setup\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmConnection.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmConnection.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmConnection.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+T:\IV LogNet\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe.config
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\QuanLyBenhVien.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\BUS.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ET.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.pdb
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\DAL.dll.config
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoChuaBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoDoanhThu.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBaoCaoKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmBenhNhan.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmChucVu.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmConnection.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDichVu.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmDSBenhNhanTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmInDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmKhoa.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmLoaiPhauThuat_PhauThuat.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmMain.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmNhanVien.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhanGiuong_TheoDoiDieuTri.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhieuKhamBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongBenh_GiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmPhongKham.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSoBenhAn.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmSuDungDichVu.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThanhToanDV.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmThuoc.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDonThuoc.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuDSNVTheoKhoa.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuGiuongBenh.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmTraCuuSoBA.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.frmXN_CC.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.Properties.Resources.resources
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe.licenses
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBe.4C789A3A.Up2Date
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.exe
+D:\Nhom14_QuanLyBenhVien_All\Nhom14_QuanLyBenhVien_New\Chương Trình\QuanLyBenhVien_Form\QuanLyBenhVien\obj\Debug\QuanLyBenhVien.pdb
